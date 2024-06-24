@@ -1,4 +1,4 @@
-import 'package:advance_navigation/model/recipe_model.dart';
+import 'package:advance_navigation/shared/model/recipe_model.dart';
 import 'package:flutter/material.dart';
 
 class RecipeDetailScreen extends StatelessWidget {

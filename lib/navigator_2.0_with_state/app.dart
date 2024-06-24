@@ -1,7 +1,7 @@
-import 'package:advance_navigation/model/recipe_model.dart';
-import 'package:advance_navigation/screens/notfound_screen.dart';
-import 'package:advance_navigation/screens/recipe_details_screen.dart';
-import 'package:advance_navigation/screens/recipe_screen.dart';
+import 'package:advance_navigation/shared/model/recipe_model.dart';
+import 'package:advance_navigation/shared/screens/notfound_screen.dart';
+import 'package:advance_navigation/shared/screens/recipe_details_screen.dart';
+import 'package:advance_navigation/shared/screens/recipe_screen.dart';
 import 'package:flutter/material.dart';
 
 class MyApp extends StatefulWidget {
